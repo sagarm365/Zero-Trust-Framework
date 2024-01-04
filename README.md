@@ -47,7 +47,13 @@ Microsoft describes 6 pillars for Zero trust strategy.    <br />
 <b>5. Infrastructure</b>   <br />
 -Use telemetry to detect attacks and anomalies, automatically block and flag risky behavior, and employ least-privilege access principles.    <br />
 <b>6. Network</b>    <br />
--Ensure that devices and users aren’t trusted just because they’re on an internal network. Encrypt all internal communications, limit access by policy, and employ microsegmentation and real-time threat detection.
+-Ensure that devices and users aren’t trusted just because they’re on an internal network. Encrypt all internal communications, limit access by policy, and employ microsegmentation and real-time threat detection.  <br />
+
+<h2> Zero Trust Architecture: </h2>
+<p align="center">
+<img src="2.png" height="65%" width="50%"/>
+<br />
+<br />
 
 
 <h2>How to implement the Zero Trust:</h2>
@@ -56,9 +62,7 @@ Microsoft describes 6 pillars for Zero trust strategy.    <br />
 <img src="11.png" height="50%" width="50%"/>
 <br />
 <br />
-<img src="2.png" height="65%" width="50%"/>
-<br />
-<br />
+
 
 
 
