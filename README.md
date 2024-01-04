@@ -53,7 +53,7 @@ Microsoft describes 6 pillars for Zero trust strategy.    <br />
 <h2>How to implement the Zero Trust:</h2>
 <br/>
 <p align="center">
-<img src="1.png" height="50%" width="50%"/>
+<img src="11.png" height="50%" width="50%"/>
 <br />
 <br />
 <img src="add watermark.png" height="65%" width="50%"/>
