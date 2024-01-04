@@ -2,9 +2,9 @@
 Brief introduction about zero trust framework.
 
 <h2>Description</h2>
-Zero Trust teaches us to <b>“trust no one, always verify”</b>. <br/>
-Instead of assuming everything behind the corporate firewall is safe, the Zero Trust model assumes breach and verifies each request as though it originates from an open network.
-<br/>Every access request is fully authenticated, authorized, and encrypted before granting access.<br/> Micro- segmentation and least-privilege access principles are applied to minimize lateral movement.
+• Zero Trust teaches us to <b>“trust no one, always verify”</b>. <br/>
+• Instead of assuming everything behind the corporate firewall is safe, the Zero Trust model assumes breach and verifies each request as    though it originates from an open network.
+<br/>• Every access request is fully authenticated, authorized, and encrypted before granting access.<br/> • Micro- segmentation and least-privilege access principles are applied to minimize lateral movement.
 
 <br />
 
